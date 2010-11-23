@@ -2,4 +2,4 @@ h2. Implicit REST Services
 
 This is a sample application that shows you how to use implicit conversions and context bounds to effectively separate the definition of service logic and the definition of media logic.
 
-For more information, please see the associated "blog post":http://blog.getintheloop.eu/2010/11/23/implicit-rest-services/.
+For more information, please see the associated "blog post":http://blog.getintheloop.eu/2010/11/23/implicit-rest-services-with-lift/.
